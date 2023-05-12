@@ -1,0 +1,14 @@
+12/05/23 16:05
+Estadístiques del projecte
+
+               	Segments	Paraules	Caràcters (sense espais)	Caràcters (amb espais)	Fitxers	
+Total:         	     113	    1168	                    6711	                  7725	      1	
+Restants:      	     113	    1168	                    6711	                  7725	      1	
+Únics:         	     113	    1168	                    6711	                  7725	      1	
+Únics restants:	     113	    1168	                    6711	                  7725	      1	
+
+
+Estadístiques per fitxer:
+
+Nom del fitxer	Segments totals	Segments restants	Segments únics	Segments únics restants	Paraules totals	Paraules restants	Paraules úniques	Paraules úniques restants	Caràcters totals (sense espais)	Caràcters restants (sense espais)	Caràcters únics (sense espais)	Caràcters únics restants (sense espais)	Caràcters totals (amb espais)	Caràcters restants (amb espais)	Caràcters únics (amb espais)	Caràcters únics restants (amb espais)	
+readme-en.txt 	            113	              113	           113	                    113	           1168	             1168	            1168	                     1168	                           6711	                             6711	                          6711	                                   6711	                         7725	                           7725	                        7725	                                 7725	
