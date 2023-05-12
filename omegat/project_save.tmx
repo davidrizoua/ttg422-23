@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg># Acknowledgements</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230512T152040Z" creationid="alumno" creationdate="20230512T152040Z">
+        <seg>Agradecimientos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># Introduction</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230512T143446Z" creationid="alumno" creationdate="20230512T143446Z">
